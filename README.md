@@ -1,0 +1,2 @@
+# qbit-assistant
+qBittorrent Tools
