@@ -1,0 +1,2 @@
+qbittorrent-api==2024.5.63
+vulcan-utils==1.12.4
